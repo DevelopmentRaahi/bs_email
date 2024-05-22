@@ -49,7 +49,9 @@ $add_cart_color:#faa200;
 $heading_top_color:rgb(102 102 102);
 $one_two_three_color :rgb(255 89 18);
 
-
+.btn-design{
+    box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.288);
+}
 .background_random {
     //  background-color: rgba(147, 168, 157, 0.597) !important;
     // background: linear-gradient(to right top, rgba(19, 41, 153, 0.246), rgba(19, 33, 88, 0.2));
