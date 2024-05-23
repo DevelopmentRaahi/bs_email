@@ -190,15 +190,15 @@ $one_two_three_color :rgb(255 89 18);
             transition: all 0.2s ease-in;
         }
 
-        h1 {
+        h2 {
             color:$one_two_three_color;
             font-size: 4rem;
             // font-family: "Poppins", sans-serif;
         }
 
-        h2 {
+        h3 {
             color:rgb(66 81 105);
-            font-size: 1.7rem; 
+            font-size: 1.6rem; 
             span{
                 color: rgb(212 89 36);
                 font-weight: 700;

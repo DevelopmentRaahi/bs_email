@@ -143,15 +143,15 @@ body {
   box-shadow: 0rem 0rem 0.2rem rgba(4, 4, 4, 0.3647058824);
   transition: all 0.2s ease-in;
 }
-.first_section .card_box h1 {
+.first_section .card_box h2 {
   color: rgb(255, 89, 18);
   font-size: 4rem;
 }
-.first_section .card_box h2 {
+.first_section .card_box h3 {
   color: rgb(66, 81, 105);
-  font-size: 1.7rem;
+  font-size: 1.6rem;
 }
-.first_section .card_box h2 span {
+.first_section .card_box h3 span {
   color: rgb(212, 89, 36);
   font-weight: 700;
 }
