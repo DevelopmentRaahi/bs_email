@@ -57,12 +57,12 @@ body {
 .row-design_gap {
   padding: 2rem 0px;
 }
-.row-design_gap h1 {
+.row-design_gap h2 {
   font-size: 3.7rem;
   color: #403a55 !important;
   font-weight: 700;
 }
-.row-design_gap h1 span {
+.row-design_gap h2 span {
   color: #d6550a;
 }
 .row-design_gap p {
