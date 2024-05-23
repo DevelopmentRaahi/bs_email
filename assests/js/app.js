@@ -24,7 +24,7 @@ function backToTop() {
 }
 
 var typed = new Typed(".typing ", {
-  strings: ["Domgys " ],
+  strings: ["Solution" ],
   typeSpeed: 100,
   backSpeed: 60,
   loop: true
