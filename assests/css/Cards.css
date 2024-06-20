@@ -6,9 +6,9 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  /* font-family: "Montserrat", sans-serif;
- */
+  
 }
+
 body{
 font-family: "Lato", sans-serif;
 font-size: 15px;
@@ -364,6 +364,9 @@ display: none;
   color: rgb(233, 233, 233);
   font-weight: 500;
 }
+
+
+
 .footer-section{
   background-color: rgb(49, 47, 47);
   height: 6rem;
@@ -446,9 +449,9 @@ display: none;
 .main-icon{
  justify-content: flex-start;
 }
-div p {
+/* div p {
   text-align: left;
-}
+} */
 .resText ul li {
   text-align: left;
 }
