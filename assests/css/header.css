@@ -407,8 +407,8 @@ h6 {
 /* ======== pre header section 1======== */
  .header_top_para{
     text-align: center;
-    padding: 1.2rem 1rem;
-    font-size: 1.4rem;
+    padding: 1.2rem 0.4rem;
+    font-size: 1.1rem;
     font-weight: 400;
     color: #31708f;
   }

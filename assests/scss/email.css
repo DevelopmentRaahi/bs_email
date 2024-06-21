@@ -32,6 +32,10 @@ body {
   box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.288);
 }
 
+.pre-main_header {
+  font-family: "Barlow Semi Condensed", sans-serif;
+}
+
 .background_random {
   padding: 0;
   margin: 0;
